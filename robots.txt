@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://alpargabos.github.io/sitemap.xml
+Sitemap: http://devdroids.com/sitemap.xml
